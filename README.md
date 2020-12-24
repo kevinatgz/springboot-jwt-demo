@@ -30,4 +30,4 @@ rememberMe | Interge | 记住我，只有两个值可以选，0:不记住，1:�
 特别感谢 [JetBrains](https://www.jetbrains.com/?from=springboot-jwt-demo) 为开源项目提供免费的 [IntelliJ IDEA](https://www.jetbrains.com/idea/?from=springboot-jwt-demo) 等 IDE 的授权  
 [<img src=".github/jetbrains-variant-3.png" width="200"/>](https://www.jetbrains.com/?from=springboot-jwt-demo)
 
-rebase
+rebase test
